@@ -1,0 +1,28 @@
+Elasticsearch Engineer I - Lab Kit / Version 6.2.2
+--------------------------------------------------------------------------------
+
+This archive contains all the tools, scripts, and data needed to complete the labs
+on your own computer locally.
+
+NOTE: You will need to download the appropriate version of Elasticsearch, Logstash,
+      Filebeat, Kibana and X-Pack from our website (https://www.elastic.co/downloads/).
+
+NOTE: Lab 4 involves setting up a 3-node cluster. During the training, we provided
+      you with 3 machines. Locally, you need to create separate config/, data/ and
+      log/ folders. There are some details here:
+https://discuss.elastic.co/t/how-do-i-create-multiple-nodes-on-the-same-computer/86839
+
+
+Included:
+
+  datasets/                         - folder with datasets and config files
+  instructions/                     - folder with lab instructions
+  README                            - this file
+  solutions/                        - folder with lab solutions and demo code
+
+--------------------------------------------------------------------------------
+Contine the learning process with the following resources!
+  - https://www.elastic.co/learn
+  - https://discuss.elastic.co
+  - https://github.com/elastic
+  - http://elasticsearch.meetup.com
